@@ -1,4 +1,4 @@
-place = ['MIT','UC' ,'UCLA' ,'FUDAN' ,'ME']
+place = ['M','U' ,'ULA' ,'FUAN' ,'ME']
 print(place)
 print(sorted(place))
 print(place)

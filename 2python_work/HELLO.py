@@ -10,4 +10,4 @@ the_rstrip = '       python         '
 print(the_rstrip.rstrip())#?fangfa  pinjie||capitalize  upper lower rjust() replace(,)
 #shit no Chinese!!!
 print('ggg')
-#for .strip() :::.lstrip_>>head     .rstrip()_>end     .strip_> both side;
+#for .strip() :::  .lstrip_>head     .rstrip()_>end     .strip_> both side;
