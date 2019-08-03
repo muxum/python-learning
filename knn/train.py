@@ -70,7 +70,6 @@ x_test =(x_test - np.min(x_test,axis = 0))/(np.max(x_test,axis = 0)- np.min(x_te
 class KNN(object):
     
     def _init_(self,k=3):
-        k=3
         self.k=k
         
     def train(self,x,y):
